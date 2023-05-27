@@ -19,12 +19,11 @@ PowerBI
 En este repositorio podrás encontrar proyectos y trabajos realizados en diversas categorías. Cada uno de ellos representa un desafío personal y me ha permitido aprender nuevas técnicas de programación y aplicar mis habilidades en diferentes áreas. A continuación, se detallan las categorías y proyectos disponibles:
 
 - **Análisis de datos**
-  - [Proyecto 1](enlace_al_repositorio): Descripción breve del proyecto.
-  - [Proyecto 2](enlace_al_repositorio): Descripción breve del proyecto.
-  - [Proyecto 3](enlace_al_repositorio): Descripción breve del proyecto.
+
 
 - **Paginas Web**
-  - [Barbería Alura](esteban12j.github.io/Barber-aAlura/): 
+  - [Barbería Alura](esteban12j.github.io/Barber-aAlura/) 
+
     [Respositorio](https://github.com/Esteban12j/Barber-aAlura.git): Repositorio con el diseño de la parte FrontEnd de una barbería, que incluye productos, información de contacto, video promocional y navegación intuitiva entre secciones.
 #   - [Proyecto 2](enlace_al_repositorio): Descripción breve del proyecto.
 
