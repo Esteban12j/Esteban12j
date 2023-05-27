@@ -22,7 +22,7 @@ En este repositorio podrás encontrar proyectos y trabajos realizados en diversa
 
 
 - **Paginas Web**
-  - [Barbería Alura](esteban12j.github.io/Barber-aAlura/) 
+  - [Barbería Alura](https://esteban12j.github.io/Barber-aAlura/) 
 
     [Respositorio](https://github.com/Esteban12j/Barber-aAlura.git): Repositorio con el diseño de la parte FrontEnd de una barbería, que incluye productos, información de contacto, video promocional y navegación intuitiva entre secciones.
 #   - [Proyecto 2](enlace_al_repositorio): Descripción breve del proyecto.
