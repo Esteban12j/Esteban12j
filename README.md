@@ -30,6 +30,7 @@ En este repositorio podrás encontrar proyectos y trabajos realizados en diversa
 
 - **Proyectos Backend**
   - [Encriptador](https://esteban12j.github.io/ChallengeOracle.github.io/)
+
     [Respositorio](https://github.com/Esteban12j/ChallengeOracle.github.io.git): La aplicación permite a los usuarios ingresar un texto, elegir entre encriptarlo o desencriptarlo utilizando un sistema de llaves específico, y ver el resultado en pantalla.
 #  - [Proyecto 3](enlace_al_repositorio): Descripción breve del proyecto.
 
@@ -44,7 +45,8 @@ En este repositorio podrás encontrar proyectos y trabajos realizados en diversa
 # Contacto
 Si deseas contactarme, puedes enviarme un mensaje a través de WhatsApp o visitar mi perfil en LinkedIn para obtener más información sobre mi experiencia y habilidades.
 
-WhatsApp: [número de teléfono]
-LinkedIn: [enlace a tu perfil de LinkedIn]
+[WhatsApp](https://api.whatsapp.com/send?phone=3145173158)
+[LinkedIn](https://www.linkedin.com/in/esteban-quenguan/)
+
 ¡Espero que encuentres interesante mi trabajo y que sea un reflejo de mi pasión por la tecnología y el desarrollo profesional!
 
