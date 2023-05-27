@@ -45,8 +45,9 @@ En este repositorio podrás encontrar proyectos y trabajos realizados en diversa
 # Contacto
 Si deseas contactarme, puedes enviarme un mensaje a través de WhatsApp o visitar mi perfil en LinkedIn para obtener más información sobre mi experiencia y habilidades.
 
-[WhatsApp](https://api.whatsapp.com/send?phone=3145173158)
-[LinkedIn](https://www.linkedin.com/in/esteban-quenguan/)
+- [WhatsApp](https://api.whatsapp.com/send?phone=3026057345)
+
+- [LinkedIn](https://www.linkedin.com/in/esteban-quenguan/)
 
 ¡Espero que encuentres interesante mi trabajo y que sea un reflejo de mi pasión por la tecnología y el desarrollo profesional!
 
