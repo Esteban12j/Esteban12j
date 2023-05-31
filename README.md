@@ -25,19 +25,22 @@ En este repositorio podrás encontrar proyectos y trabajos realizados en diversa
 - **Paginas Web**
 
   [Barbería Alura](https://esteban12j.github.io/Barber-aAlura/) 
-  | <img src="https://img.freepik.com/vector-premium/barba-aislada-sobre-fondo-negro-elemento-diseno-ilustracion-vectorial_201926-1679.jpg" width="150" height="100" style="filter: invert(100%)"> | [Respositorio](https://github.com/Esteban12j/Barber-aAlura.git) Repositorio con el diseño de la parte FrontEnd de una barbería, que incluye productos, información de contacto, video promocional y navegación intuitiva entre secciones. |
+  <img src="https://img.freepik.com/vector-premium/barba-aislada-sobre-fondo-negro-elemento-diseno-ilustracion-vectorial_201926-1679.jpg" width="150" height="100" style="filter: invert(100%)">  
+  [Respositorio](https://github.com/Esteban12j/Barber-aAlura.git) Repositorio con el diseño de la parte FrontEnd de una barbería, que incluye productos, información de contacto, video promocional y navegación intuitiva entre secciones. 
 
    <!-- - [Proyecto 2](enlace_al_repositorio): Descripción breve del proyecto. -->
 
 
 - **Proyectos Backend**
+   
    [Encriptador](https://esteban12j.github.io/encriptador/) 
-   |<img src="https://raw.githubusercontent.com/Esteban12j/encriptador/main/Imagenes/Buscando.png" width="150" height="100" >| [Respositorio](https://github.com/Esteban12j/encriptador.git) La aplicación permite a los usuarios ingresar un texto, elegir entre encriptarlo o desencriptarlo utilizando un sistema de llaves específico, y ver el resultado en pantalla. 
+   <img src="https://raw.githubusercontent.com/Esteban12j/encriptador/main/Imagenes/Buscando.png" width="150" height="100" >
+    [Respositorio](https://github.com/Esteban12j/encriptador.git) La aplicación permite a los usuarios ingresar un texto, elegir entre encriptarlo o desencriptarlo utilizando un sistema de llaves específico, y ver el resultado en pantalla. 
 
   <!-- - [Proyecto 3](enlace_al_repositorio): Descripción breve del proyecto. -->
 
 - **Biomecánica**
-  - [Recreación de movimiento](https://github.com/Esteban12j/recrear_Movimiento.git)
+  - [Recreación de movimiento](https://github.com/Esteban12j/recrear_Movimiento.git): Recreación de movimiento de un cuerpo humano a partir de datos de aceleración y velocidad angular, en Matlab.
 
 - **Electrónica**
 
